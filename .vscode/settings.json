@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/PythonLearnings/myenv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.extraPaths": [
+    "/workspaces/PythonLearnings",
+    "/workspaces/PythonLearnings/myenv/lib/python3.12/site-packages"
+  ]
+}
